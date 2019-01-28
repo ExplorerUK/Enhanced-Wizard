@@ -16,7 +16,7 @@ Import *region_type_plugin_rodrigomesquita_wizard.sql* file into your applicatio
 
 ## Options ##
 1. Show links: Choose yes to use the list entry name as a link
-2. Show Custom Icons:  Choose yes to use custom icons by entry. To choose the icon, just edit the list entry and on User Defined Attributes 1, type the icon name. eg. *fa-calendar-edit*
+2. Show Custom Icons:  Choose yes to use custom icons by entry. To choose the icon, just edit the list entry and on User Defined Attributes 1, type the font apex icon name. eg. *fa-calendar-edit*
 
 ## Preview ##
 
