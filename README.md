@@ -24,7 +24,7 @@ Import *region_type_plugin_rodrigomesquita_wizard.sql* file into your applicatio
 
 ## Demo ##
 
-https://apex.oracle.com/pls/apex/f?p=86013
+https://goo.gl/PmLg3H
 
 
 
