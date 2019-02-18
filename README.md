@@ -1,5 +1,5 @@
 # Oracle APEX Region Plugin - Enchanced Wizard
-The plugin add new features to the APEX Wizard region.
+This APEX plugin add new features to the APEX Wizard region.
 
 ## Installation ##
 Import *region_type_plugin_rodrigomesquita_wizard.sql* file into your application.
