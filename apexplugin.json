@@ -1,0 +1,33 @@
+{
+  "name" : "Enhanced-Wizard",
+  "version" : "1.0",
+  "description" : "This APEX plugin add new features to the APEX Wizard region",
+  "keywords" : ["ORCLAPEX", "APEX", "WIZARD", "REGION", "ICONS"],
+  "homepage" : "https://github.com/ExplorerUK/Enhanced-Wizard",
+  "bugs" : {
+    "url" : "https://github.com/ExplorerUK/Enhanced-Wizard/issues",
+    "email" : "rodrigo.mesquita@explorer.uk.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Rodrigo Mesquita",
+    "email" : "rodrigo.mesquita@explorer.uk.com",
+    "donationUrl" : "paypal.me/RodrigoMesquita"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ExplorerUK/Enhanced-Wizard.git"
+  },
+  "oracle" : {
+    "versions" : ["10.2.04", "11.2.0.1", "12.1.0.1", "12.2.0.1" ],
+    "apex" : {
+      "versions" : ["5.1.0", "18.1.0"],
+      "plugin" : {
+        "internalName" : "RODRIGOMESQUITA.WIZARD",
+        "type" : "dynamic action",
+        "demo" : "https://goo.gl/GvhpQv",
+        "previewImage" : "https://raw.githubusercontent.com/ExplorerUK/Enhanced-Wizard/master/plugin_preview.gif"
+      }
+    }
+  }
+}
