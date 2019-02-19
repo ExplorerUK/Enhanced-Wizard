@@ -12,7 +12,7 @@
   "author" : {
     "name" : "Rodrigo Mesquita",
     "email" : "rodrigo.mesquita@explorer.uk.com",
-    "donationUrl" : "paypal.me/RodrigoMesquita"
+    "donationUrl" : "https://paypal.me/RodrigoMesquita?locale.x=en_GB"
   },
   "repository" : {
     "type" : "git",
